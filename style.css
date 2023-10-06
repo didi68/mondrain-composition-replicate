@@ -14,7 +14,7 @@
 
     .container {
         display: grid;
-        grid-template-columns: repeat(4, 100px) 40px;
+        grid-template-columns: repeat(4, 80px) 30px;
         grid-template-rows: repeat(7, 50px) 80px 20px;
         background-color:  #000;
         gap: 5px;
